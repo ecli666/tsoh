@@ -17,8 +17,8 @@ The Story of Hallakungui.
 
 # Features
 
-- muli scene management using worldroute.
-- camera moving.
+- muli scene management using worldroute
+- camera moving
 - 2 type clothes and weapon swap
 - collision check with ground tile
 - strike enemies with swords and arrows
@@ -56,4 +56,4 @@ $ flutter run
 
 # License
 
-- This project is under license from MIT
+- This project is under license from MIT.
