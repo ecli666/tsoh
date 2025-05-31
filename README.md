@@ -20,7 +20,7 @@ The Story of Hallakungui.
 
 - muli scene management using worldroute.
 - camera moving.
-- 2 type cloth and weapon swap
+- 2 type clothes and weapon swap
 - collision check with ground tile
 - strike enemies with swords and arrows
 - overlay
