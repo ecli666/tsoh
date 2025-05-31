@@ -1,5 +1,5 @@
 name: server
-description: A new Dart Frog application
+description: Game server for Tsoh with dart_frog
 version: 1.0.0+1
 publish_to: none
 
