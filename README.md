@@ -14,7 +14,6 @@ The Story of Hallakungui.
 <img src="./.github/screenshot_4.png" width="400"/>
 <img src="./.github/screenshot_0.png" width="400"/>
 <img src="./.github/screenshot_1.png" width="400"/>
-<br/><br/>
 
 # Features
 
