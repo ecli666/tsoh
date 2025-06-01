@@ -17,7 +17,7 @@ The Story of Hallakungui.
 
 # Features
 
-- muli scene management using worldroute
+- multi scene management using worldroute
 - camera moving
 - 2 type clothes and weapon swap
 - collision check with ground tile
@@ -36,13 +36,14 @@ The Story of Hallakungui.
 
 # Starting
 
+- Launch iOS simulator or Android emulator.
 ```bash
 $ git clone https://github.com/ecli666/tsoh
 $ cd tsoh
 $ flutter pub get
 $ flutter run
 ```
-- for multiplay
+- For multiplay.
 ```bash
 $ git clone https://github.com/ecli666/tsoh
 $ cd tsoh
