@@ -36,7 +36,7 @@ The Story of Hallakungui.
 
 # Starting
 
-- Launch iOS simulator or Android emulator.
+- Launch iOS simulator or Android emulator and set landscape orientation.
 ```bash
 $ git clone https://github.com/ecli666/tsoh
 $ cd tsoh
